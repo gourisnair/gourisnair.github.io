@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-    background-image: url("https://www.google.com/search?client=ubuntu&hs=ph3&channel=fs&tbm=isch&sa=1&ei=8IMqW9f9NsX5vgTJgIuoCA&q=writing+photography&oq=writing&gs_l=img.3.0.0i67k1l2j0j0i67k1l2j0j0i67k1j0j0i67k1j0.46048.50421.0.51764.13.10.1.2.2.0.240.1286.0j5j2.7.0....0...1c.1.64.img..3.10.1320....0.3TFjh8PS4kw#imgrc=Pf6d4L7HBLUbbM:");
+   background: lightblue;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
