@@ -1,7 +1,7 @@
 body {
     margin: 60px auto;
     width: 70%;
-   background: ivory;
+   background: indigo;
    background-image:url("/home/gourisnair/Downloads/1*XsmvUvDELQVWAl3zhTvvlQ.jpeg")
 }
 nav ul, footer ul {
@@ -25,9 +25,11 @@ h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     text-align: center;
+    color:white;
 }
 h4{
     text-align: center;
+    color:white;
 }
 p {
     font-size: 1.5em;
